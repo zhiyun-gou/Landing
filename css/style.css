@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Ubuntu:wght@300&display=swap');
+
+@import url("components/container.css");
+@import url("components/members.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	background: #19282F; 
+	color: #D3DEDC;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+}
+
+h1,h2,h3 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bolder;
+}
+a{
+	text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+	font-weight: bold;
+}
+a:hover{
+	color:#27496D;
+	cursor: pointer;
+	text-decoration: underline;
+}
